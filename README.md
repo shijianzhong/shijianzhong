@@ -5,16 +5,16 @@ A Web designer🌈 and developer🎯 from china.
 
 - 😄 Pronouns: he/him/his
 
-### Languages:
 
-c# java go javascript ...
+**Languages:**  
+javascript c# java go ...
 
+![stark's github stats](https://github-readme-stats.vercel.app/api?username=shijianzhong&show_icons=true&hide=["issues"])
 
+[![HitCount](http://hits.dwyl.com/shijianzhong/shijianzhong.svg)](http://hits.dwyl.com/shijianzhong/shijianzhong)
 
-
-
-
-⭐️ From shijianzhong
+---
+⭐️ From [shijianzhong](https://github.com/shijianzhong)
 
 
 
