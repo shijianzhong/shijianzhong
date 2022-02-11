@@ -5,8 +5,9 @@ A Web designer🌈 and developer🎯 from china.
 
 - 😄 Pronouns: he/him/his
 
-Languages:
-python php go javascript
+### Languages:
+
+c# java go javascript ...
 
 
 
