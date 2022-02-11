@@ -1,17 +1,22 @@
 ### Hi there 👋  My chinese name is jianzhong.shi, my english name is sking.
 A Web designer🌈 and developer🎯 from china.
 
-🌱 I’m currently learning NodeJs, Python Go and ReactJs
+- 🌱 I’m currently learning NodeJs, Python Go and ReactJs
 
-😄 Pronouns: he/him/his
+- 😄 Pronouns: he/him/his
+
 Languages:
 python php go javascript
 
-stark's github stats
 
-HitCount
+
+
+
 
 ⭐️ From shijianzhong
+
+
+
 <!--
 **shijianzhong/shijianzhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
