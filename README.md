@@ -7,7 +7,7 @@ A Web designer🌈 and developer🎯 from china.
 
 
 **Languages:**  
-javascript c# java go ...
+javascript c# java go rust...
 
 ![stark's github stats](https://github-readme-stats.vercel.app/api?username=shijianzhong&show_icons=true&hide=["issues"])
 
