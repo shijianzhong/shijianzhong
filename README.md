@@ -1,4 +1,6 @@
 ### Hi there 👋  My chinese name is jianzhong.shi, my english name is sking.
+
+![snake gif](https://github.com/shijianzhong/shijianzhong/blob/output/github-contribution-grid-snake.svg)
 A Web designer🌈 and developer🎯 from china.
 
 - 🌱 I’m currently learning NodeJs, Python Go and ReactJs
