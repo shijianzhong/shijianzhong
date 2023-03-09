@@ -8,7 +8,7 @@ A Web designer🌈 and developer🎯 from china.
 
 - 😄 Pronouns: he/him/his
 
-- ⭐️ From [shijianzhong](https://sking.deno.dev/)
+- 📒 blog [博客](https://sking.deno.dev/)
 
 
 **Languages:**  
